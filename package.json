@@ -1,7 +1,6 @@
 {
   "name": "template",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html",
@@ -11,5 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "parcel-bundler": "^1.12.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choikaren/Calculator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/choikaren/Calculator/issues"
+  },
+  "homepage": "https://github.com/choikaren/Calculator#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.26.11"
   }
 }
